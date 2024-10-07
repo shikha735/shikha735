@@ -9,7 +9,7 @@
 
 🌱 **Currently exploring:**  
 
-AI and machine learning to build innovative, scalable products.
+AI to build innovative, scalable products.
 
 <br>
 
